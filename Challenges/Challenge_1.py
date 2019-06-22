@@ -22,6 +22,6 @@ for letter in msg:
 
 print("".join(new_msg))
 
-# A mensagem diz que a função "maketrans()" é recomendada para fazer esse tipo de transformarção e fala para vocÊ fazer isso no URL map fazendo ele virar OCR
+# The messages says that the function "maketrans()" is recommended to do this kind of transformation and told you that you need to do this at the URL
 
 # http://www.pythonchallenge.com/pc/def/ocr.html is the answer
